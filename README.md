@@ -5,7 +5,7 @@
 I am a second-year computer engineering student at Sai University, passionate about exploring the realms of web development, machine learning, and developing resilient applications.
 
 
-## 🌐 Let's Connect!:
+## 🌐 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gayanthikashankar) 
 
 ## 💻 Tech Stack:
