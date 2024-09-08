@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Gayanthika 
 
 
-## I am a second-year computer science student at Sai University, passionate about exploring the realms of web development, machine learning, and developing resilient applications.
+## I am a third-year computer science student at Sai University, passionate about exploring the realms of web development, machine learning, and developing resilient applications.
 
 
 ## 🌐 Let's Connect!
