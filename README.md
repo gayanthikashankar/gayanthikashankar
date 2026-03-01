@@ -1,4 +1,4 @@
-# Hi there, I'm Gayanthika 
+# Hi, I'm Gayanthika 
 
 
 ## I am a final-year computer science undergraduate, passionate about exploring the realms of web development, machine learning, and developing resilient applications.
